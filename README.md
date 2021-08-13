@@ -1,2 +1,2 @@
-# abrhamlincon-tributepage
-A Abraham Lincon Tribute Page
+This is a Abraham Lincoln Tribute page.
+Enjoy!
